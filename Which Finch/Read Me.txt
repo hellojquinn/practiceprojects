@@ -1,0 +1,9 @@
+Which Finch Read Me
+
+Created in February 2022 after learning from the guidebook Head First HTML & CSS.
+
+This page is made only used HTML & CSS.
+
+Please click this link to see the browser version of this page.
+
+Not optimised for mobile.
