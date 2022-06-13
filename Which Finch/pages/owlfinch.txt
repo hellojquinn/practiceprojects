@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Which Finch</title>
+	<link rel="stylesheet" href="../style.css">
+</head>
+
+
+
+   <body>
+
+	<div class="container">
+
+		<div class="floating-menu">
+
+		   <img src="../images/selectfinch.png" 
+			alt="Select a finch to learn more"
+			class="center wiggle">
+
+
+		   
+		<a href="../pages/zebrafinch.html">
+			<img src="../images/zebrathumbnail.png" 
+			alt="Zebra Finch information"
+			class="center2 thumbnail">
+		</a>	
+
+		<a href="../pages/gouldianfinch.html">
+		   <img src="../images/gouldianthumbnail.png" 
+			alt="Gouldian Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/goldfinch.html">
+		   <img src="../images/goldthumbnail.png" 
+			alt="Goldfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/owlfinch.html">
+		   <img src="../images/owlthumbnail.png" 
+			alt="Owl Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/cordonbleufinch.html">
+		   <img src="../images/cordonthumbnail.png" 
+			alt="Cordon Bleu Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/starfinch.html">
+		   <img src="../images/starthumbnail.png" 
+			alt="Star Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/greenfinch.html">
+		   <img src="../images/greenthumbnail.png" 
+			alt="Greenfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../index.html">
+		   <img src="../images/mainpage.png" 
+			alt="Go Back to Main Page"
+			class="center3 thumbnail">	
+		</a>
+
+		</div>
+
+	   <div class="header">
+		 <a href="../index.html">
+		   <img src="../images/logo.png" 
+		   alt="Which Finch logo"
+		   class="center">	
+		 </a>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/owl1.png"
+		   alt="An Owl Finch perched on a tree branch."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h1>The Owl Finch</h1>
+		 <p>
+			Also known as the Double-Barred Finch, native to Australia. They have two black bars 
+			across their chest with a white face, black eyes, grey beak, white chest and black 
+			rump, brown wings with white speckles. There is difficulty in identifying sex except 
+			males sing, so separating and listening is often employed.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/owl2.png"
+		   alt="Two Owl Finches perched happily on a branch together."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Geography</h2>
+
+		 <p>
+			Owl Finches are found in northern and eastern Australia, typically within dry savannah,
+			scrublands, wood and grasslands, and have been known to be seen in city parks and 
+			cultivated areas such as sugarcane fields as well. They do not do well in cold climate 
+			as they can succumb easily to cold temperatures.
+		 </p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/owl3.png"
+		   alt="Three Owl Finches about to take flight from a tree branch."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Habits & Lifestyle</h2>
+		 <p>
+			Owl Finch are very social birds and can be found in groups of up to 40, are very active 
+			and curious birds. Only the males sing a soft repetitive song but both sexes emit a 
+			'meep' sound which can form into a 'meow' sound like a cat, and will diet on seed,	
+			grasses and insects in the wild.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/owl4.png"
+		   alt="An Owl Finch hidden within its nest, peering out the entrance."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		 <h2>Quick Facts</h2>
+			<ul>
+		<li>Closely related to the Zebra Finch, although interbreeding is discouraged.</li>
+		<li>Will foster parent other baby finch species.</li>
+		<li>Uniquely drinks water by dipping beak and using tongue to move water into throat.</li>
+			</ul>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/owl5.png"
+		   alt="A group of Owl Finches drinking at a watering hole."
+		   class="grid-image">
+
+
+	   </div>
+
+	</div>
+
+
+	   <footer class="footer">
+			This website is a HTML & CSS learning project, all images belong to their respective owners.
+			<br>
+			Any information contained within this website must not be considered as fact. 
+			<br>
+			Please consult an avian veterinarian for the proper care of your bird.
+	   </footer>
+
+</body>
+</html>

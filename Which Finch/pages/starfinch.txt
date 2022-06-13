@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Which Finch</title>
+	<link rel="stylesheet" href="../style.css">
+</head>
+
+
+
+   <body>
+
+	<div class="container">
+
+		<div class="floating-menu">
+
+		   <img src="../images/selectfinch.png" 
+			alt="Select a finch to learn more"
+			class="center wiggle">
+
+
+		   
+		<a href="../pages/zebrafinch.html">
+			<img src="../images/zebrathumbnail.png" 
+			alt="Zebra Finch information"
+			class="center2 thumbnail">
+		</a>	
+
+		<a href="../pages/gouldianfinch.html">
+		   <img src="../images/gouldianthumbnail.png" 
+			alt="Gouldian Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/goldfinch.html">
+		   <img src="../images/goldthumbnail.png" 
+			alt="Goldfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/owlfinch.html">
+		   <img src="../images/owlthumbnail.png" 
+			alt="Owl Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/cordonbleufinch.html">
+		   <img src="../images/cordonthumbnail.png" 
+			alt="Cordon Bleu Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/starfinch.html">
+		   <img src="../images/starthumbnail.png" 
+			alt="Star Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/greenfinch.html">
+		   <img src="../images/greenthumbnail.png" 
+			alt="Greenfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../index.html">
+		   <img src="../images/mainpage.png" 
+			alt="Go Back to Main Page"
+			class="center3 thumbnail">	
+		</a>
+
+		</div>
+
+	   <div class="header">
+		 <a href="../index.html">
+		   <img src="../images/logo.png" 
+		   alt="Which Finch logo"
+		   class="center">	
+		 </a>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/star1.png"
+		   alt="A male Star Finch perched on the side of a twig."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h1>The Star Finch</h1>
+		 <p>
+			The Star Finch is a small finch with a slender bill, long tail with a rounded tip. It 
+			is mostly plain olive-brown with a pale belly, but it's face, beak, tail end, chest, 
+			flanks are covered with white spots. The male colours are more prominent whereas the
+			females are less so.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/star2.png"
+		   alt="A male and female Star Finch standing on the leaves of a fern."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Geography</h2>
+
+		 <p>
+			Star Finches are native to the northern parts of Australia, predominantly in central 
+			Queensland, and northern New South Wales. They are mainly found in grassy woodlands and 
+			grasslands that are located close to water sources but can also can appear in towns and 
+			cultivated areas.
+		 </p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/star3.png"
+		   alt="A group of Star Finches sitting around on a twig branch."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Habits & Lifestyle</h2>
+		 <p>
+			Flocks of these finches can number 10-30 but can build to hundreds but are under threat 
+			of overgrazing of grasslands limiting coverage and food sources for them. They are 
+			granivorous, foraging in vegetation just above the ground, but have been known to eat 
+			flying insects just as flies and moths. 
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/star4.png"
+		   alt="A yellow faced Buddha Star Finch standing on a branch looking at the camera."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		 <h2>Quick Facts</h2>
+			<ul>
+		<li>The Star Finch is a commonly found aviary bird and is easy to breed.</li>
+		<li>They have a variant with a yellow face known as a Buddha Finch.</li>
+		<li>The Star Finch is held in just 20 zoos and institutions worldwide.</li>
+			</ul>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/star5.png"
+		   alt="A large group of Star Finches foraging for seed and millet on the ground."
+		   class="grid-image">
+
+
+	   </div>
+
+	</div>
+
+
+	   <footer class="footer">
+			This website is a HTML & CSS learning project, all images belong to their respective owners.
+			<br>
+			Any information contained within this website must not be considered as fact. 
+			<br>
+			Please consult an avian veterinarian for the proper care of your bird.
+	   </footer>
+
+</body>
+</html>

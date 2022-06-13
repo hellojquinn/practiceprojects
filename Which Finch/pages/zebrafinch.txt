@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Which Finch</title>
+	<link rel="stylesheet" href="../style.css">
+</head>
+
+
+
+   <body>
+
+	<div class="container">
+
+		<div class="floating-menu">
+
+		   <img src="../images/selectfinch.png" 
+			alt="Select a finch to learn more"
+			class="center wiggle">
+
+
+		   
+		<a href="../pages/zebrafinch.html">
+			<img src="../images/zebrathumbnail.png" 
+			alt="Zebra Finch information"
+			class="center2 thumbnail">
+		</a>	
+
+		<a href="../pages/gouldianfinch.html">
+		   <img src="../images/gouldianthumbnail.png" 
+			alt="Gouldian Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/goldfinch.html">
+		   <img src="../images/goldthumbnail.png" 
+			alt="Goldfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/owlfinch.html">
+		   <img src="../images/owlthumbnail.png" 
+			alt="Owl Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/cordonbleufinch.html">
+		   <img src="../images/cordonthumbnail.png" 
+			alt="Cordon Bleu Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/starfinch.html">
+		   <img src="../images/starthumbnail.png" 
+			alt="Star Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/greenfinch.html">
+		   <img src="../images/greenthumbnail.png" 
+			alt="Greenfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../index.html">
+		   <img src="../images/mainpage.png" 
+			alt="Go Back to Main Page"
+			class="center3 thumbnail">	
+		</a>
+
+		</div>
+
+	   <div class="header">
+		 <a href="../index.html">
+		   <img src="../images/logo.png" 
+		   alt="Which Finch logo"
+		   class="center">	
+		 </a>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/zebra1.png"
+		   alt="A male and female Zebra Finch touching their beaks together."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h1>The Zebra Finch</h1>
+		 <p>
+			Zebra finches are the most common songbird in Australia. 	
+			There are over 50 different colour mutations mainly found
+			in captive breeding, most males have a mix of white, black,
+			grey, orange and brown colours; female are uniformly grey. 		
+			Both sexes have red eyes (easily seen in sunlight) and orange
+			beak.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/zebra2.png"
+		   alt="A small group of Zebra Finches perched together on a branch."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Geography</h2>
+
+		 <p>
+			Zebra Finches live all over Australia, mainly in more
+			arid parts close to water, and typically avoid the
+			cool south and tropical north and also can be found
+			on Timor Island. They live in grasslands, savannahs and 
+			woodlands with scattered trees and shrubs, or 
+			even cultivated areas like rice fields.
+		 </p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/zebra3.png"
+		   alt="A large group of Zebra Finches perched together on a branch."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Habits & Lifestyle</h2>
+		 <p>
+			Zebra finches are social birds and can live in flocks, or 		
+			charms, of up to 500 and tend to do things in groups such as 	
+			foraging, bathing, preening, eating, gathering nesting 	
+			material, and exploring their environment. It is not 		
+			uncommon for a single finch to begin an activity and call out 		
+			with a loud "meep" for others to join in.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/zebra4.png"
+		   alt="A male and female Zebra Finch roosting in a nest they've built."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		 <h2>Quick Facts</h2>
+			<ul>
+		<li>They sing while sleeping to practice their song.</li>
+		<li>They mature in 80 days, the fastest bird in the world.</li>
+		<li>They are the most studied bird in the world linked to understanding the origins of 			
+		    human speech.</li>
+			</ul>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/zebra5.png"
+		   alt="A male finch feeding two young juvenile finches on a branch."
+		   class="grid-image">
+
+
+	   </div>
+
+	</div>
+
+
+	   <footer class="footer">
+			This website is a HTML & CSS learning project, all images belong to their respective owners.
+			<br>
+			Any information contained within this website must not be considered as fact. 
+			<br>
+			Please consult an avian veterinarian for the proper care of your bird.
+	   </footer>
+
+</body>
+</html>

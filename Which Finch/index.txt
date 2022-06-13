@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Which Finch</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+
+
+   <body>
+
+	<div class="container">
+
+		<div class="floating-menu">
+
+		   <img src="images/selectfinch.png" 
+			alt="Select a finch to learn more"
+			class="center wiggle">
+
+
+		   
+		<a href="pages/zebrafinch.html">
+			<img src="images/zebrathumbnail.png" 
+			alt="Zebra Finch information"
+			class="center2 thumbnail">
+		</a>	
+
+		<a href="pages/gouldianfinch.html">
+		   <img src="images/gouldianthumbnail.png" 
+			alt="Gouldian Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="pages/goldfinch.html">
+		   <img src="images/goldthumbnail.png" 
+			alt="Goldfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="pages/owlfinch.html">
+		   <img src="images/owlthumbnail.png" 
+			alt="Owl Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="pages/cordonbleufinch.html">
+		   <img src="images/cordonthumbnail.png" 
+			alt="Cordon Bleu Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="pages/starfinch.html">
+		   <img src="images/starthumbnail.png" 
+			alt="Star Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="pages/greenfinch.html">
+		   <img src="images/greenthumbnail.png" 
+			alt="Greenfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		</div>
+
+	   <div class="header">
+		 <a href="index.html">
+		   <img src="images/logo.png" 
+		   alt="Which Finch logo"
+		   class="center">	
+		 </a>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="images/main1.png"
+		   alt="Zebra Finch in the desert"
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="images/whichfinchwelcome.png"
+		   alt="Welcome to Which Finch, a source of knowledge about various finches. 
+		        Image of a finch asking for more seed in his bowl."
+		   class="grid-image-text">
+
+
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="images/main2.png"
+		   alt="Gouldian Finch perched on a tree branch."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h1>Did you know..?</h1>
+
+			<ul>
+			    <li>A flock or group of finches is called a 'Charm'.</li>
+			    <li>There are at least 650 species of finches all around the world.</li>
+			    <li>Finches have been in existence for 10 to 20 million years.</li>
+			</ul>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="images/main3.png"
+		   alt="Goldfinch standing on a branch with flower blossoms."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h1>Darwin's Finches</h1>
+		 <p>
+			When Charles Darwin was conducting his studies on the Galapagos Islands,
+			he discovered the variety of finches and their method of adapting and changing
+			based on their environment. 
+			<br>
+			<br>
+			This discovery led to his famous <a href="https://en.wikipedia.org/wiki/Natural_selection"							
+			target="_blank">Natural Selection Principle</a>.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="images/main4.png"
+		   alt="Owl Finch standing on a wooden balcony railing."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		 <h1>In good company</h1>
+		 <p>
+			All finches are social with beautiful song and need to be in company of other 			 
+			finches in a large aviary, but are quiet as their sound doesn't travel far, 
+			so they make for wonderful pets.
+		 	<img src="images/learnmore.png"
+		   	alt="Image of finch saying to click on the finch options on the left 
+			     to learn more."
+			class="grid-image-text">
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="images/main5.png"
+		   alt="Cordon Bleu Finch standing in the grass with a blade of grass in its beak."
+		   class="grid-image">
+
+
+	   </div>
+
+	</div>
+
+
+	   <footer class="footer">
+			This website is a HTML & CSS learning project, all images belong to their respective owners.
+			<br>
+			Any information contained within this website must not be considered as fact. 
+			<br>
+			Please consult an avian veterinarian for the proper care of your bird.
+	   </footer>
+
+</body>
+</html>

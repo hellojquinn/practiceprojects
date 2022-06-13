@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Which Finch</title>
+	<link rel="stylesheet" href="../style.css">
+</head>
+
+
+
+   <body>
+
+	<div class="container">
+
+		<div class="floating-menu">
+
+		   <img src="../images/selectfinch.png" 
+			alt="Select a finch to learn more"
+			class="center wiggle">
+
+
+		   
+		<a href="../pages/zebrafinch.html">
+			<img src="../images/zebrathumbnail.png" 
+			alt="Zebra Finch information"
+			class="center2 thumbnail">
+		</a>	
+
+		<a href="../pages/gouldianfinch.html">
+		   <img src="../images/gouldianthumbnail.png" 
+			alt="Gouldian Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/goldfinch.html">
+		   <img src="../images/goldthumbnail.png" 
+			alt="Goldfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/owlfinch.html">
+		   <img src="../images/owlthumbnail.png" 
+			alt="Owl Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/cordonbleufinch.html">
+		   <img src="../images/cordonthumbnail.png" 
+			alt="Cordon Bleu Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/starfinch.html">
+		   <img src="../images/starthumbnail.png" 
+			alt="Star Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/greenfinch.html">
+		   <img src="../images/greenthumbnail.png" 
+			alt="Greenfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../index.html">
+		   <img src="../images/mainpage.png" 
+			alt="Go Back to Main Page"
+			class="center3 thumbnail">	
+		</a>
+
+		</div>
+
+	   <div class="header">
+		 <a href="../index.html">
+		   <img src="../images/logo.png" 
+		   alt="Which Finch logo"
+		   class="center">	
+		 </a>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/gouldian1.png"
+		   alt="Three Gouldian Finch males perched on a branch together."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h1>The Gouldian Finch</h1>
+		 <p>
+			The Gouldian Finch is native to Australia. Both males and females are brightly coloured 		
+			with black, green, yellow, turquoise, purple, and red markings. however, the females 
+			tend to be less brightly coloured. Gouldian Finches' heads may be red, black, or 
+			yellow. Juveniles are a greenish-grey in colour.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/gouldian2.png"
+		   alt="A male Gouldian Finch displaying his feathers in courtship to a female on a branch."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Geography</h2>
+
+		 <p>
+			Gouldian Finches live only in the far north part of Western Australia and the Northern
+			Territory. They live in the tropical savannah, thickets, and woodlands with grassy 
+			plains usually near water, but their population status is considered 'near-threatened' 
+			due to wildfires and human development for cattle grazing and land clearing.
+		 </p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/gouldian3.png"
+		   alt="A group of Gouldian Finches getting a drink of water on the ground."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Habits & Lifestyle</h2>
+		 <p>
+			Gouldian finches are social birds and outside the breeding season, they join
+			other flocks that have up to 2,000 finches. In the dry season, they can 
+			become more nomadic and move to wherever food and water can be found. They often 	
+			forage in small groups and generally silent with occasional soft trills and chirps.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/gouldian4.png"
+		   alt="A male Gouldian Finch entering his nest inside a log hollow."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		 <h2>Quick Facts</h2>
+			<ul>
+		<li>Also named "Lady Gouldian" by John Gould for his wife Elizabeth in 1844.</li>
+		<li>Only finch to nest in tree hollows.</li>
+		<li>Babies have fluorescent 'beads' in their mouths so can be fed in the dark.</li>
+			</ul>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/gouldian5.png"
+		   alt="A group of baby Gouldian Finches sitting in their nest with mouths open displaying 				
+			their fluorescent beads lining their mouths."
+		   class="grid-image">
+
+
+	   </div>
+
+	</div>
+
+
+	   <footer class="footer">
+			This website is a HTML & CSS learning project, all images belong to their respective owners.
+			<br>
+			Any information contained within this website must not be considered as fact. 
+			<br>
+			Please consult an avian veterinarian for the proper care of your bird.
+	   </footer>
+
+</body>
+</html>

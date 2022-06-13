@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Which Finch</title>
+	<link rel="stylesheet" href="../style.css">
+</head>
+
+
+
+   <body>
+
+	<div class="container">
+
+		<div class="floating-menu">
+
+		   <img src="../images/selectfinch.png" 
+			alt="Select a finch to learn more"
+			class="center wiggle">
+
+
+		   
+		<a href="../pages/zebrafinch.html">
+			<img src="../images/zebrathumbnail.png" 
+			alt="Zebra Finch information"
+			class="center2 thumbnail">
+		</a>	
+
+		<a href="../pages/gouldianfinch.html">
+		   <img src="../images/gouldianthumbnail.png" 
+			alt="Gouldian Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/goldfinch.html">
+		   <img src="../images/goldthumbnail.png" 
+			alt="Goldfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/owlfinch.html">
+		   <img src="../images/owlthumbnail.png" 
+			alt="Owl Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/cordonbleufinch.html">
+		   <img src="../images/cordonthumbnail.png" 
+			alt="Cordon Bleu Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/starfinch.html">
+		   <img src="../images/starthumbnail.png" 
+			alt="Star Finch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../pages/greenfinch.html">
+		   <img src="../images/greenthumbnail.png" 
+			alt="Greenfinch information"
+			class="center2 thumbnail">	
+		</a>
+
+		<a href="../index.html">
+		   <img src="../images/mainpage.png" 
+			alt="Go Back to Main Page"
+			class="center3 thumbnail">	
+		</a>
+
+		</div>
+
+	   <div class="header">
+		 <a href="../index.html">
+		   <img src="../images/logo.png" 
+		   alt="Which Finch logo"
+		   class="center">	
+		 </a>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/green1.png"
+		   alt="A male Greenfinch perched on a wire."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h1>The Greenfinch</h1>
+		 <p>
+			The European Greenfinch is similar in size and shape to a House Sparrow, but it is 
+			mainly green, with a large yellow stripe on its wings and tail. The female and 
+			fledglings are duller with brown tones on their back. The Greenfinches beak is 
+			thick and cone-like. The male also has a "butterfly" courtship display during 
+			flight.
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/green2.png"
+		   alt="A male and female Greenfinch perched on a twig looking at each other."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Geography</h2>
+
+		 <p>
+			European Greenfinches are widespread throughout Europe, North Africa, and Southwest 
+			Asia. They are mainly residents but some in the northern parts do migrate further 
+			south. They inhabit forests, woodland edges, farmland, parks, and relatively thick 
+			vegetation which is usually favoured during breeding.
+		 </p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/green3.png"
+		   alt="A large flock of Greenfinches flying together."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		<h2>Habits & Lifestyle</h2>
+		 <p>
+			European Greenfinches are social birds and can form large flocks outside breeding 			
+			season, sometimes mixing with other finches and buntings. They are active during the 
+			day spending their time hopping between tree branches in search of food. Their song 
+			contains a lot of trilling between wheezes. 
+		</p>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/green4.png"
+		   alt="A group of Greenfinches all eating seed at a garden feeder."
+		   class="grid-image">
+
+
+	   </div>
+
+	   <div class="column">
+		 <h2>Quick Facts</h2>
+			<ul>
+		<li>European Greenfinches are very popular amongst garden feeders.</li>
+		<li>The male courtship butterfly dance is slow wing beats while singing.</li>
+		<li>There are 6 different types of Greenfinch.</li>
+			</ul>
+	   </div>
+
+	   <div class="column-image">
+
+		   <img src="../images/green5.png"
+		   alt="Two Greenfinch males competing for the attention of a female Greenfinch by doing their 	
+			courtship dance."
+		   class="grid-image">
+
+
+	   </div>
+
+	</div>
+
+
+	   <footer class="footer">
+			This website is a HTML & CSS learning project, all images belong to their respective owners.
+			<br>
+			Any information contained within this website must not be considered as fact. 
+			<br>
+			Please consult an avian veterinarian for the proper care of your bird.
+	   </footer>
+
+</body>
+</html>
