@@ -2,8 +2,10 @@ Which Finch Read Me
 
 Created in February 2022 after learning from the guidebook Head First HTML & CSS.
 
-This page is made only used HTML & CSS.
+This page is made only used HTML & CSS and was my first personal project.
 
-Please click this link to see the browser version of this page.
+Please use this link to see the browser version of this page:
+
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/lorefort/practiceprojects/main/Which%20Finch/index.html
 
 Not optimised for mobile.
