@@ -2,7 +2,7 @@ Which Finch Read Me
 
 Created in February 2022 after learning from the guidebook Head First HTML & CSS.
 
-This page is made only used HTML & CSS and was my first personal project.
+This page is made only used HTML & CSS and was my first personal project. The txt files for each of the pages are present as I made this using text editor, and each time a change to the code was made, I would copy the text document and change the file type to html, and so the text documents were included in the parent file upload.
 
 Please use this link to see the browser version of this page:
 
