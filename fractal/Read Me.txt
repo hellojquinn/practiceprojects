@@ -1,7 +1,7 @@
-Fractal Read Me
+Fractal Explorer Read Me
 
 Final Project of the Head First HTML5 Workbook.
 
 The txt files are just the code written in a text editor and then duplicated into JS/HTML files
 
-Not optimised for mobile.
+This is unlikely to function using GitHub as a host to website viewers like htmlpreview.github.io due to the security issues with web workers, and so if the code is copied to your own computer, it can work, but most likely not in Chrome due to the same reason. I have made it functional by using Safari and selecting Disable Local File Restrictions within the Developer menu.
