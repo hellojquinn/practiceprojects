@@ -1,0 +1,7 @@
+Fractal Read Me
+
+Final Project of the Head First HTML5 Workbook.
+
+The txt files are just the code written in a text editor and then duplicated into JS/HTML files
+
+Not optimised for mobile.
