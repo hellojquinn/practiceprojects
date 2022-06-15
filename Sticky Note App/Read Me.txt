@@ -1,0 +1,6 @@
+Read Me
+
+Sticky Note from Head First HTML5 workbook using JSON to store the notes in browsers local storage.
+
+The txt documents are the raw code.
+
