@@ -1,0 +1,6 @@
+Read Me
+
+GPS location for own device from Head First HTML5 workbook.
+
+The txt documents are the raw code.
+
